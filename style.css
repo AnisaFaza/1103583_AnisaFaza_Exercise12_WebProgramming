@@ -1,0 +1,21 @@
+.first {
+    background-color: powderblue;
+    border-color: orangered;
+    border-style: double;
+    border-width : 5px
+}
+
+.second {
+    background-color: yellow;
+    border-color: dodgerblue;
+    border-width: 2px;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.third {
+    background-color: mediumseagreen;
+    border-color: gray;
+    border-style: dotted;
+    border-width: 8px;
+}
